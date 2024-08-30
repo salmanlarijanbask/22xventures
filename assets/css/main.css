@@ -1737,3 +1737,123 @@ border: 4px solid #fff;
   margin-bottom: 50px;
 }
 }
+
+@media screen and (min-width: 2600px) {
+  .header .logo img {
+    width: 444px;
+}
+.navmenu a, .navmenu a:focus {
+  color: var(--nav-color);
+  padding: 28px 35px;
+  font-size: 1.8rem;
+}
+.header .btn-getstarted, .header .btn-getstarted:focus {
+  font-size: 1.6rem;
+  margin: 0 0 0 80px;
+}
+.sliderHeading {
+  font-size: 5rem;
+  line-height: 6rem;
+}
+.sliderSubHeading {
+  font-size: 2.6rem;
+  line-height: 3.8rem;
+}
+.slicksliderHeading, .sliderHeading2, .sectionHeading {
+  font-size: 4.2rem;
+  line-height: 5.4rem;
+}
+.slicksliderHeading:after {
+  background: url(../img/arrowYellow.png) no-repeat;
+  width: 130px;
+  height: 78px;
+  left: -110px;
+  background-size: contain;
+}
+.boxHeading:after {
+  background: url(../img/arrowYellow.png) no-repeat;
+  width: 137px;
+  height: 78px;
+  left: -30px;
+  background-size: contain;
+}
+.trategy-ul li{
+  font-size: 2.6rem;
+  line-height: 3.6rem;
+}
+.finance-ul li {
+  font-size: 2rem;
+  line-height: 3rem;
+}
+.work-box-1 {
+  width: 500px;
+}
+.office-kit-box {
+  font-size: 2.42rem;
+}
+.box-big-heading {
+  font-size: 6.4rem;
+  line-height: 7.2rem;
+  font-weight: 700;
+}
+.sra-btn-1 {
+  padding: 16spx 4px;
+  width: 141px;
+  height: 118px;
+  font-size: 1.5rem;
+}
+.box-small-heading {
+  font-size: 2rem;
+  line-height: 2.8rem;
+  font-weight: 600;
+}
+.trapez-box {
+  width: 25%;
+  padding: 90px 20px 90px 20px;
+  margin-bottom: 40px;
+}
+.reaserch-box .sectionDescription, .sectionDescription {
+  font-size: 2rem;
+  line-height: 2.8rem;
+}
+.reaserch-box .secTitle {
+  font-size: 2.2em;
+  line-height: 2.9rem;
+  font-weight: 600;
+  padding-right: 80px;
+}
+.boxHeading {
+  font-size: 3.8rem;
+  line-height: 4.4rem;
+}
+.pause-play-btn {
+  width: 4rem;
+  height: 4rem;
+}
+.pause-play-btn img {
+  width: 28px;
+  filter: invert(1);
+}
+#carouselExampleControls .carousel-control-next-icon, #carouselExampleControls .carousel-control-prev-icon {
+  background-size: 22px;
+  width: 78px;
+  height: 78px;
+}
+#carouselExampleControls .carousel-control-prev {
+  left: unset;
+  right: 100px;
+}
+.main-description {
+  right: -658px;
+}
+.demo-btn {
+  font-size: 1.72rem;
+}
+.mbt-4{
+  margin-bottom: 30px;
+}
+
+.mbt-5{
+  margin-bottom: 50px;
+}
+}
