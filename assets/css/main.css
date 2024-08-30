@@ -1220,6 +1220,10 @@ border: 4px solid #fff;
 # Disable aos animation delay on mobile devices
 --------------------------------------------------------------*/
 @media screen and (max-width: 767px) {
+  .reaserch-box .sectionDescription {
+    font-size: .9rem;
+    line-height: 1.5rem;
+}
   .navmenu .dropdown>.dropdown-active li a {
     font-size: .9rem;
 }
@@ -1319,9 +1323,14 @@ border: 4px solid #fff;
     font-size: 1.12rem;
     line-height: 1.6rem;
 }
-  .sliderHeading2, .sliderHeading , .sectionHeading, .slicksliderHeading{
+  .sliderHeading2, .sectionHeading, .slicksliderHeading{
     font-size: 1.4rem;
     line-height: 2rem;
+}
+
+.sliderHeading {
+  font-size: 1.6rem;
+  line-height: 2.1rem;
 }
 .sliderSubHeading {
     font-size: 1.1rem;
@@ -1434,7 +1443,7 @@ border: 4px solid #fff;
     font-size: 1.12rem;
     line-height: 1.6rem;
 }
-.sliderHeading2, .sliderHeading, .sectionHeading, .slicksliderHeading {
+.sliderHeading2, .sectionHeading, .slicksliderHeading {
   font-size: 1.9rem;
   line-height: 2.5rem;
 }
@@ -1442,7 +1451,10 @@ border: 4px solid #fff;
     font-size: 1.3rem;
     line-height: 1.8rem;
 }
-
+.sliderHeading {
+  font-size: 2.2rem;
+  line-height: 2.8rem;
+}
   [data-aos-delay] {
     transition-delay: 0 !important;
   }
