@@ -94,7 +94,7 @@
          <li><a href="">Solution</a></li>
          <li><a href="">Community</a></li>
          <li><a href="">Partner</a></li> -->
-         <li><a href="">Company</a></li>
+         <li><a href="company.php">Company</a></li>
          <li><a href="">Sign In</a></li>
        </ul>
        <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
