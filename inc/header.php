@@ -23,7 +23,7 @@
  <header id="header" class="header d-flex align-items-center fixed-top">
    <div class="container position-relative d-flex align-items-center">
 
-     <a href="index.html" class="logo d-flex align-items-center me-auto">
+     <a href="index.php" class="logo d-flex align-items-center me-auto">
        <h1 class="sitename"> <img class="img-fluid logoHeader" src="assets/img/logo.png" alt="header Logo"></h1>
      </a>
 

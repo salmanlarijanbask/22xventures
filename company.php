@@ -309,7 +309,7 @@
             color: #FFC107;
         }
 
-        .work-box-wrapper .sectionDescription :nth-child(last)::before {
+        .work-box-wrapper .sectionDescription :nth-child(7)::before {
             display: none;
         }
 
@@ -326,9 +326,10 @@
         }
 
         .offering-list li {
-            margin-bottom: 5px;
-
-        }
+    margin-bottom: 5px;
+    font-size: 1.4rem;
+    line-height: 2.2rem;
+}
 
         .offering-img {
             width: 20px;
