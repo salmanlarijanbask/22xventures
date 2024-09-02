@@ -25,7 +25,7 @@
                             <p class="sliderSubHeading text-white text-center mbt-5">Tap into a Network of Experts and Proven Strategies.
                             </p>
                     
-                            <p class="slicksliderHeading text-center text-white m-auto mbt-5" style="width:fit-content;">Create the Life You Dream
+                            <p class="slicksliderHeading text-center text-white pt-3 m-auto mbt-5" style="width:fit-content;">Create the Life You Dream
                             </p>
                         </div> 
                     </div>
@@ -149,21 +149,93 @@
                     <div class="d-flex gap-3 justify-content-center mt-5">
                         <a href="#" class="office-kit-box text-center text-white">
                             Secured Retirement Account
+
+                            <div class="hoversra">
+                                <p class="text-black mb-1 text-start">SRA, Protect and Multiply Savings</p>
+                                <ul>
+                                    <li> Guaranteed principal protection </li>
+                                    <li>   Compound growth </li>
+                                    <li>  Lock-in appreciation </li>
+                                    <li>  Tax-free withdrawal option </li>
+                                    <li>  No fees  </li>
+                                       
+                                </ul>
+                            </div>
                     </a>
                         <a href="#" class="office-kit-box text-center text-white">
                             Tax-Free Income Account
+
+                            <div class="hoversra">
+                                <p class="text-black mb-1 text-start">  TFIA, Tax-free Income</p>
+                                <ul>
+                                    <li>Tax deferred growth </li>
+                                    <li>  Withdrawal tax-free for any use </li>
+                                    <li>  Permanent life insurance </li>
+                                    <li>  Multi-use, long-term care, and
+                                        more…  </li>
+                                       
+                                </ul>
+                            </div>
                     </a>
                         <a href="#" class="office-kit-box text-center text-white">
-                            Children Starlight Fund
+                            Starlight Opportunity
+                            Fund
+                            
+                            <div class="hoversra">
+                                <p class="text-black mb-1 text-start"> SOF, 529 College Fund Alternative</p>
+                                <ul>
+                                    <li>Tax deferred growth </li>
+                                    <li>   Withdrawal tax-free for any use </li>
+                                    <li>   Tax-free pension fund </li>
+                                    <li>  Lifetime tax-free income </li>
+                                    <li>  Permanent life insurance </li>
+                                        
+                                       
+                                </ul>
+                            </div>
                     </a>
                         <a href="#" class="office-kit-box text-center text-white">
                             Horizon Breakout Fund
+
+                            <div class="hoversra">
+                                <p class="text-black mb-1 text-start">HBF, Gig- and Retail Workers Living Benefits </p>
+                                <ul>
+                                    <li>Tax deferred growth </li>
+                                    <li>   Lifetime income </li>
+                                    <li>  Alternative retirement plan </li>
+                                        
+                                       
+                                </ul>
+                            </div>
                     </a>
                         <a href="#" class="office-kit-box text-center text-white">
                             Infinite Banking Concept
+
+                            <div class="hoversra">
+                                <p class="text-black mb-1 text-start">IBC, Create Your Own Bank</p>
+                                <ul>
+                                    <li>Tax deferred growth</li>
+                                    <li>   Leverage money at least 2X</li>
+                                    <li>   Withdrawal tax-free for any use</li>
+                                    <li>  Permanent life insurance</li>
+                                         
+                                       
+                                </ul>
+                            </div>
                     </a>
                         <a href="#" class="office-kit-box text-center text-white">
                             Life Debt Free
+                            <div class="hoversra">
+                                <p class="text-black mb-1 text-start">LDF, Payoff Debts 70% Faster</p>
+                                <ul>
+                                    <li>Not Debt Consolidation </li>
+                                    <li>   With New Monthly Payments </li>
+                                    <li>  Avoid Scheduled Interest Payments </li>
+                                    <li>  Turn Expenses to Income Producing Asset </li>
+                                        
+                                       
+                                </ul>
+                            </div>
                     </a>
                     </div>
                     <div class="mt-5">
@@ -202,7 +274,7 @@
             <div class="container">
                 <div class="row justify-content-center text-center">
                     <p class="sectionHeading text-white m-auto mb-3 mbt-4">DIGITAL FAMILY OFFICE KIT</p>
-                    <p class="sliderSubHeading text-white text-center mbt-5">We bring strategies from successful family offices and businesses to the public.</p>
+                    <p class="sliderSubHeading text-white text-center mbt-5">Empowering You with Proven Strategies from the Best in the Business</p>
 
                 </div>
 
@@ -214,7 +286,7 @@
                             </div>
                             <div class="content-div ">
                                 <div class="research-div d-flex justify-content-between">
-                                    <p class="sectionDescription text-white text-uppercase fw-500">Research Report </p>
+                                    <p class="sectionDescription text-white text-uppercase fw-500">PRODUCT </p>
                                     <div class="img-sound-div">
                                         <a href=""><img src="assets/img/volume-new.png" alt="" class="img-fluid mx-2"></a>
                                         <a href=""> <img src="assets/img/folder-new.png" alt="" class="img-fluid"></a>
@@ -226,11 +298,22 @@
                                 </p>
 
                                 <p class="sectionDescription text-white mt-4 main-description">
-                                    Learn how to shield your life savings from market losses; and multiply your money without fees …
+                                    Learn how to shield your life savings from market losses; lock in gains; and multiply your money without fees
                                 </p>
                                 <div class="d-flex justify-content-between align-items-center mt-4 buttons-div">
-                                    <a href="" class="demo-btn"> Demo</a>
-                                    <a href="" class="sra-btn"> SRA</a>
+                                    <a href="https://calendly.com/22xventures/lifestage-fi" class="demo-btn"> Learn More</a></a>
+                                    <a href="" class="sra-btn"> SRA <div class="hoversra">
+                                        <p class="text-black mb-1 text-start">SRA, Protect and Multiply Savings</p>
+                                        <ul>
+                                            <li> Guaranteed principal protection </li>
+                                            <li>   Compound growth </li>
+                                            <li>  Lock-in appreciation </li>
+                                            <li>  Tax-free withdrawal option </li>
+                                            <li>  No fees  </li>
+                                               
+                                        </ul>
+                                    </div></a>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -242,7 +325,7 @@
                             </div>
                             <div class="content-div ">
                                 <div class="research-div d-flex justify-content-between">
-                                    <p class="sectionDescription text-white text-uppercase fw-500">Research Report </p>
+                                    <p class="sectionDescription text-white text-uppercase fw-500">PRODUCT </p>
                                     <div class="img-sound-div">
                                         <a href=""> <img src="assets/img/volume-new.png" alt="" class="img-fluid mx-2 "></a>
                                         <a href=""><img src="assets/img/folder-new.png" alt="" class="img-fluid"></a>
@@ -257,8 +340,8 @@
 
                                 </p>
                                 <div class="d-flex justify-content-between align-items-center mt-4 buttons-div">
-                                    <a href="" class="demo-btn"> Demo</a>
-                                    <a href="" class="sra-btn"> SRA</a>
+                                    <a href="https://calendly.com/22xventures/lifestage-fi" class="demo-btn"> Learn More</a></a>
+                                    <a href="" class="sra-btn"> TFIA</a>
                                 </div>
                             </div>
                         </div>
@@ -285,8 +368,8 @@
 
                                 </p>
                                 <div class="d-flex justify-content-between align-items-center mt-4 buttons-div">
-                                    <a href="" class="demo-btn"> Demo</a>
-                                    <a href="" class="sra-btn"> SRA</a>
+                                    <a href="https://calendly.com/22xventures/lifestage-fi" class="demo-btn"> Learn More</a></a>
+                                    <a href="" class="sra-btn">SOF</a>
                                 </div>
                             </div>
                         </div>
@@ -313,8 +396,8 @@
 
                                 </p>
                                 <div class="d-flex justify-content-between align-items-center mt-4 buttons-div">
-                                    <a href="" class="demo-btn"> Demo</a>
-                                    <a href="" class="sra-btn"> SRA</a>
+                                    <a href="https://calendly.com/22xventures/lifestage-fi" class="demo-btn"> Learn More</a></a>
+                                    <a href="" class="sra-btn"> HBF</a>
                                 </div>
                             </div>
                         </div>
@@ -337,11 +420,11 @@
                                 <p class="sectionDescription text-white mt-2 secTitle">Achieve peace of mind. Financial care for special needs
                                 </p>
 
-                                <p class="sectionDescription text-white mt-4 main-description">Lifetime financial care funding is within your control, today …
+                                <p class="sectionDescription text-white mt-4 main-description">Empowering special needs community.  Lifetime financial care funding for your loved-ones is within your control, today …
                                 </p>
                                 <div class="d-flex justify-content-between align-items-center mt-4 buttons-div">
-                                    <a href="" class="demo-btn"> Demo</a>
-                                    <a href="" class="sra-btn"> SRA</a>
+                                    <a href="https://calendly.com/22xventures/lifestage-fi" class="demo-btn"> Learn More</a></a>
+                                    <a href="" class="sra-btn">IBC</a>
                                 </div>
                             </div>
                         </div>
@@ -369,8 +452,8 @@
 
                                 </p>
                                 <div class="d-flex justify-content-between align-items-center mt-4 buttons-div">
-                                    <a href="" class="demo-btn"> Demo</a>
-                                    <a href="" class="sra-btn"> SRA</a>
+                                    <a href="https://calendly.com/22xventures/lifestage-fi" class="demo-btn"> Learn More</a></a>
+                                    <a href="" class="sra-btn">LDF</a>
                                 </div>
                             </div>
                         </div>
@@ -397,8 +480,8 @@
 
                                 </p>
                                 <div class="d-flex justify-content-between align-items-center mt-4 buttons-div">
-                                    <a href="" class="demo-btn"> Demo</a>
-                                    <a href="" class="sra-btn"> SRA</a>
+                                    <a href="https://calendly.com/22xventures/lifestage-fi" class="demo-btn"> Learn More</a></a>
+                                    <a href="" class="sra-btn">Insurance Multi-use</a>
                                 </div>
                             </div>
                         </div>
@@ -427,8 +510,8 @@
 
                                 </p>
                                 <div class="d-flex justify-content-between align-items-center mt-4 buttons-div">
-                                    <a href="" class="demo-btn"> Demo</a>
-                                    <a href="" class="sra-btn"> SRA</a>
+                                    <a href="https://calendly.com/22xventures/lifestage-fi" class="demo-btn"> Learn More</a></a>
+                                    <a href="" class="sra-btn">PSF</a>
                                 </div>
                             </div>
                         </div>
@@ -454,7 +537,7 @@
                                 <p class="sectionDescription mt-5 main-description text-white">U.S. first real principal protected fund, guaranteed no-loss with built-in growth …
                                 </p>
                                 <div class="d-flex justify-content-between align-items-center mt-4 buttons-div">
-                                    <a href="" class="demo-btn"> Demo</a>
+                                    <a href="https://calendly.com/22xventures/lifestage-fi" class="demo-btn"> Learn More</a></a>
                                     <a href="" class="sra-btn"> SRA</a>
                                 </div>
                             </div>
@@ -468,7 +551,7 @@
                             </div>
                             <div class="content-div ">
                                 <div class="research-div d-flex justify-content-between">
-                                    <p class="sectionDescription text-uppercase fw-700">CASE STUDY
+                                    <p class="sectionDescription text-uppercase fw-700">LDF, Live Debt Free
                                     </p>
                                     <div class="img-sound-div">
                                         <a href=""><img src="assets/img/volume-new.png" alt="" class="img-fluid mx-2"></a>
@@ -476,13 +559,13 @@
                                     </div>
                                 </div>
 
-                                <p class="sectionDescription mt-5">Debt Free Life case.
+                                <p class="sectionDescription mt-5">LDF, Live Debt Free life case.
                                 </p>
 
                                 <!-- <p class="sectionDescription text-white mt-4 main-description">Gig- | retail workers – create lifetime annual income and retirement account within your current means … </p> -->
                                 <div class="d-flex justify-content-between align-items-center mt-4 buttons-div">
-                                    <a href="" class="demo-btn"> Demo</a>
-                                    <a href="" class="sra-btn"> SRA</a>
+                                    <a href="https://calendly.com/22xventures/lifestage-fi" class="demo-btn"> Learn More</a></a>
+                                    <!-- <a href="" class="sra-btn"> SRA</a> -->
                                 </div>
                             </div>
                         </div>
@@ -495,14 +578,14 @@
                             </div>
                             <div class="content-div ">
                                 <div class="research-div d-flex justify-content-between">
-                                    <p class="sectionDescription text-uppercase fw-700">CASE STUDY</p>
+                                    <p class="sectionDescription text-uppercase fw-700">SRA, Secured Retirement Account</p>
                                     <div class="img-sound-div">
                                         <a href=""><img src="assets/img/volume-new.png" alt="" class="img-fluid mx-2"></a>
                                         <a href=""> <img src="assets/img/folder-new.png" alt="" class="img-fluid"></a>
                                     </div>
                                 </div>
 
-                                <p class="sectionDescription mt-5">Secured Retirement Account case.
+                                <p class="sectionDescription mt-5">SRA, Secured Retirement Account case.
 
                                 </p>
                                 <!-- 
@@ -510,8 +593,8 @@
 
                         </p> -->
                                 <div class="d-flex justify-content-between align-items-center mt-4 buttons-div">
-                                    <a href="" class="demo-btn"> Demo</a>
-                                    <a href="" class="sra-btn"> SRA</a>
+                                    <a href="https://calendly.com/22xventures/lifestage-fi" class="demo-btn"> Learn More</a></a>
+                                    <!-- <a href="" class="sra-btn"> SRA</a> -->
                                 </div>
                             </div>
                         </div>
@@ -524,18 +607,18 @@
                             </div>
                             <div class="content-div ">
                                 <div class="research-div d-flex justify-content-between">
-                                    <p class="sectionDescription text-uppercase fw-700">CASE STUDY</p>
+                                    <p class="sectionDescription text-uppercase fw-700">SOF, Children Starlight Opportunity Fund</p>
                                     <div class="img-sound-div">
                                         <a href=""><img src="assets/img/volume-new.png" alt="" class="img-fluid mx-2"></a>
                                         <a href=""> <img src="assets/img/folder-new.png" alt="" class="img-fluid"></a>
                                     </div>
                                 </div>
 
-                                <p class="sectionDescription mt-5">Starlight Opportunity Fund case.
+                                <p class="sectionDescription mt-5">SOF, Children Starlight Opportunity Fund case.
                                 </p>
                                 <div class="d-flex justify-content-between align-items-center mt-4 buttons-div">
-                                    <a href="" class="demo-btn"> Demo</a>
-                                    <a href="" class="sra-btn"> SRA</a>
+                                    <a href="https://calendly.com/22xventures/lifestage-fi" class="demo-btn"> Learn More</a></a>
+                                    <!-- <a href="" class="sra-btn"> SRA</a> -->
                                 </div>
                             </div>
                         </div>
@@ -561,7 +644,7 @@
                     <p class="slicksliderHeading text-white text-center m-auto mb-3 mbt-4" style="width: fit-content;">Revolutionizing Total Workforce Benefits
                     </p>
                 
-                    <p class="sliderSubHeading text-white text-center mbt-5">Attract, Retain, Reward – Tailored for Your Whole Team, From Founders to Contractors.
+                    <p class="sliderSubHeading text-white text-center mbt-5">Actract, Retain, Reward – Tailored Solutions From Founders to Contractors
 </p>
                 </div>
               
@@ -614,17 +697,17 @@
     <div class="container">
         <div class="row justify-content-center">
 
-            <div class="col-lg-8">
+            <div class="col-lg-10">
                 <p class="slicksliderHeading text-white text-center m-auto mb-3 mbt-4" style="width: fit-content;">Redefining Workforce Value  – More Than 401(k) and Health Insurance
                 </p>
-                <p class="sliderSubHeading text-white text-center mbt-5">Rewards and Benefits That Build Legacies – For Workers and Their Families.
+                <p class="sliderSubHeading text-white text-center mbt-5">Rewards and Benefits That Build Legacies – For Workers and Their Families
                 </p>
             </div>
 
-            <div class="col-lg-8">
-                <p class="sliderHeading2 text-white text-center pt-4 mbt-4">Workforce Prosperity</p>
+            <div class="col-lg-10">
+                <p class="sliderHeading2 text-white text-center pt-5 mbt-4">Workforce Benefits</p>
 
-                <p class="sliderSubHeading text-white text-center pb-4 mbt-4">Benefits Solutions From Founders to Contractors
+                <p class="sliderHeading2 text-white text-center pb-4 mbt-4">Benefits Solutions From Founders to Contractors
                 </p>
 
                 <div class="d-flex mt-2 justify-content-center gap-3 mb-4 mbt-5">
@@ -682,10 +765,7 @@
             <div class="col-lg-8">
                 <p class="slicksliderHeading text-white text-center m-auto mb-3  mbt-4" style="width: fit-content;">Industry Leading Digital 401(k) Solution
                 </p>
-                <p class="sliderSubHeading text-white text-center  mbt-5">Outsource with Confidence – Your Benefits and Operations Managed End-to-End.
-
-
-                </p>
+                <p class="sliderSubHeading text-white text-center  mbt-5">Outsource with Confidence – Your Benefits and Operations Managed with Care End-to-End. </p>
             </div>
 
 
