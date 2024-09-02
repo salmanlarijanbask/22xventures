@@ -194,6 +194,30 @@ video#popupVideo1 {
   width: 240px;
   background: #fff;
 }
+
+.hoversraNw {
+  margin: 0;
+  padding: 10px;
+  display: block;
+  position: absolute;
+  visibility: hidden;
+  left: 84%;
+  bottom: 0;
+  opacity: 0;
+  transition: 0.3s;
+  border-radius: 4px;
+  z-index: 99;
+  box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.1);
+  width: 280px;
+  background: #fff;
+  height: 170px;
+}
+.sra-btn:hover .hoversraNw {
+  opacity: 1;
+  top: -180px;
+  visibility: visible;
+  left: -190px;
+}
 .office-kit-box {
   position: relative;
 }
@@ -208,7 +232,7 @@ video#popupVideo1 {
   color: #000;
   text-align: left;
 }
-.office-kit-box .hoversra ul {
+.office-kit-box .hoversra ul, .hoversraNw ul {
   padding: 0px 0px 0px 18px;
 }
 .office-kit-box:hover .hoversra .text-start {
@@ -1043,6 +1067,7 @@ div#demo2 .indicatorGroup {
   color: #000000!important;
   background: #FFC107;
   border-radius: 40px;
+  position: relative;
 }
 .trapez-wrapper {
   display: flex;
@@ -1657,6 +1682,17 @@ border: 4px solid #fff;
 
 
 @media (min-width: 2200px) and (max-width: 2599px) {
+  .office-kit-box .hoversra ul, .hoversraNw ul {
+    padding: 0px 0px 0px 28px!important;
+}
+  .sra-btn:hover .hoversraNw {
+    top: -290px;
+    left: -310px;
+}
+.hoversraNw {
+  height: 350px !important;
+  width: 400px !important;
+}
   .reaserch-box.reaserchWhite {
     height: 710px;
 }
@@ -1768,7 +1804,7 @@ border: 4px solid #fff;
   right: -658px;
 }
 .demo-btn, .sra-btn {
-  font-size: 1.72rem;
+  font-size: 1.42rem;
 }
 .mbt-4{
   margin-bottom: 30px;
@@ -1777,9 +1813,26 @@ border: 4px solid #fff;
 .mbt-5{
   margin-bottom: 50px;
 }
+.office-kit-box .hoversra ul, .hoversraNw ul li {
+  font-size: 1.4rem;
+}
 }
 
 @media screen and (min-width: 2600px) {
+  .office-kit-box .hoversra ul, .hoversraNw ul li {
+    font-size: 1.4rem;
+}
+  .office-kit-box .hoversra ul, .hoversraNw ul {
+    padding: 0px 0px 0px 28px!important;
+}
+  .sra-btn:hover .hoversraNw {
+    top: -290px;
+    left: -310px;
+}
+.hoversraNw {
+  height: 350px !important;
+  width: 400px !important;
+}
   .reaserch-box.reaserchWhite {
     height: 710px;
     background: #FFF;
@@ -1897,7 +1950,7 @@ border: 4px solid #fff;
   right: -658px;
 }
 .demo-btn, .sra-btn {
-  font-size: 1.72rem;
+  font-size: 1.42rem;
 }
 .mbt-4{
   margin-bottom: 30px;
