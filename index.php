@@ -18,14 +18,11 @@
 
             <div class="container">
                 <div class="banBox">
-                    <div class="row">
-                        <div class="col-lg-12">
-                            <p class="sliderHeading text-white text-center mbt-4">EMPOWERING PERSONAL WEALTH<br>
-                                & WORKFORCE PROSPERITY
+                    <div class="row justify-content-center">
+                        <div class="col-lg-11">
+                            <p class="sliderHeading text-white text-center mbt-4">UNIVERSAL PLATFORM FOR WEALTH & WORKFORCE BENEFITS </p>
                     
-                            </p>
-                    
-                            <p class="sliderSubHeading text-white text-center mbt-4">Access the Financial Playbook of Successful Families and Businesses. 
+                            <p class="sliderSubHeading text-white text-center mbt-5">Tap into a Network of Experts and Proven Strategies.
                             </p>
                     
                             <p class="slicksliderHeading text-center text-white m-auto mbt-5" style="width:fit-content;">Create the Life You Dream
@@ -94,7 +91,7 @@
                         <div class="BannerTxtBox pb-5">
                             <p class="slicksliderHeading text-center text-white m-auto mb-3 mbt-4" style="width:fit-content;">Financial Freedom Access for All
                             </p>
-                            <p class="sliderSubHeading text-center text-white mbt-5">Complimentary access to strategies and tools from successful families and businesses, tailored to your unique “Lifestage”, ensuring your path to financial freedom.
+                            <p class="sliderSubHeading text-center text-white mbt-5">Complimentary access to wealth tools and guidance, perfectly aligned to your lifestage, ensuring your path to financial freedom.
 
                             </p>
                         </div>
@@ -105,7 +102,7 @@
                         <img src="assets/img/image24.jpg" alt="Alt" class="img-fluid w-100">
 
                         <div class="textBoxNew">
-                            <p class="text-white sliderHeading2 text-center mbt-4">Digital Family Office Kit
+                            <p class="text-white sliderHeading2 text-center mbt-4">DIGITAL FAMILY OFFICE KIT
                             </p>
                             <p class="text-white sliderHeading2 text-center mbt-4">Unlock Your Financial Blueprint 
                             </p>
@@ -137,9 +134,7 @@
                     <p class="slicksliderHeading text-center text-white m-auto mb-3 mbt-4" style="width:fit-content;">Empower Your Future: Open Access
 
                     </p>
-                    <p class="sliderSubHeading text-white text-center mbt-4">Start Now – Your Access Wealth Resources and Shape Your Ideal Life.
-
-                    </p>
+                    <p class="sliderSubHeading text-white text-center mbt-4">Start Now – Shape Your Ideal Lifestyle.</p>
 
                 </div>
 
@@ -153,22 +148,22 @@
                     </span></p>
                     <div class="d-flex gap-3 justify-content-center mt-5">
                         <a href="#" class="office-kit-box text-center text-white">
-                        SRA
+                            Secured Retirement Account
                     </a>
                         <a href="#" class="office-kit-box text-center text-white">
-                        TFRA
+                            Tax-Free Income Account
                     </a>
                         <a href="#" class="office-kit-box text-center text-white">
-                        Children Straight Fund
+                            Children Starlight Fund
                     </a>
                         <a href="#" class="office-kit-box text-center text-white">
-                        Children Straight Fund
+                            Horizon Breakout Fund
                     </a>
                         <a href="#" class="office-kit-box text-center text-white">
-                        ABC
+                            Infinite Banking Concept
                     </a>
                         <a href="#" class="office-kit-box text-center text-white">
-                        DFL
+                            Life Debt Free
                     </a>
                     </div>
                     <div class="mt-5">

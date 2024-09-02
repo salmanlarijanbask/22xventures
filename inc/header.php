@@ -100,7 +100,7 @@
        <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
      </nav>
 
-     <a class="btn-getstarted" href="#about">Book Now</a>
+     <a class="btn-getstarted" href="https://calendly.com/22xventures/lifestage-fi?month=2024-09">Contact Us</a>
 
    </div>
  </header>
